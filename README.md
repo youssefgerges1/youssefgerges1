@@ -23,8 +23,6 @@ I am a motivated developer focused on building clean, reliable, and user-friendl
 
 #### Connect With Me
 - GitHub: [@youssefgerges1](https://github.com/youssefgerges1)
-- LinkedIn: _Add your LinkedIn profile here_
-- Email: _Add your professional email here_
 
 ---
 
