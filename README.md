@@ -1,7 +1,7 @@
 # Hi, I'm Youssef Gerges👋 
 
 ### Machine Learning & AI Engineer
-I specialize in building production-grade **AI** pipelines and **multi-modal AI engines**. My focus is on bridging the gap between theoretical models and scalable, real-world deployments.
+I am an AI Engineer who views Artificial Intelligence as a software engineering challenge.I architect end-to-end systems that solve real-world problems.
 
 ---
 
@@ -12,7 +12,9 @@ I specialize in building production-grade **AI** pipelines and **multi-modal AI 
 
 ### 🤖 Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/joblib-3488a8?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
@@ -33,30 +35,24 @@ I specialize in building production-grade **AI** pipelines and **multi-modal AI 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
----
 
+### 🔧 DevOps & Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+-----
 
 ### 📈 What I'm Working On
-- **Scalable AI:** Deploying ML models inside containerized environments using Docker.
 - **Open Source:** Contributing to tools that make AI more accessible.
+- **Algorithmic Efficiency:** Analyzing theoretical physics and complex math to better understand model behaviors, such as time-series data or high-dimensional embeddings.
+- **Production Monitoring:** Implementing tracking to ensure models perform accurately over time in a live environment
 
+  
 ---
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/youssef-gerges-2398b7338/) |  [Email](youssefbeshara20@gmail.com)
 
 
-<!--
-**youssefgerges1/youssefgerges1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
