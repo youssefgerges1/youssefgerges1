@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Youssef Gerges 👋
 
-<!--
-**youssefgerges1/youssefgerges1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Professional GitHub Profile
 
-Here are some ideas to get you started:
+I am a motivated developer focused on building clean, reliable, and user-friendly software. I enjoy learning modern technologies, improving my problem-solving skills, and creating projects that deliver practical value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Core Focus
+- Writing clean and maintainable code
+- Learning modern web and software development practices
+- Building projects with real-world impact
+- Growing as a collaborative and professional developer
+
+#### What I Bring
+- Strong interest in software development and continuous learning
+- Commitment to quality, clarity, and consistent improvement
+- A professional mindset with attention to detail
+- Readiness to contribute to team-based and independent projects
+
+#### Current Goals
+- Strengthen my portfolio with professional projects
+- Expand my technical skills across modern development tools
+- Collaborate on meaningful open-source and freelance work
+
+#### Connect With Me
+- GitHub: [@youssefgerges1](https://github.com/youssefgerges1)
+- LinkedIn: _Add your LinkedIn profile here_
+- Email: _Add your professional email here_
+
+---
+
+> Always learning. Always building. Always improving.
