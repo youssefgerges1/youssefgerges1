@@ -12,10 +12,11 @@ I am an AI Engineer who views Artificial Intelligence as a software engineering 
 
 ### 🤖 Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,joblib" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/joblib-3488a8?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ### 🧠 Deep Learning
