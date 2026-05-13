@@ -40,7 +40,7 @@ I am an AI Engineer who views Artificial Intelligence as a software engineering 
 <p align="left">
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,fastapi,docker" />
 </p>
 -----
 
