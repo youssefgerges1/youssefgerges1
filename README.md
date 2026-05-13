@@ -1,40 +1,42 @@
-# Hi, I'm Youssef 👋 
+# Hi, I'm Youssef Gerges👋 
 
 ### Machine Learning & AI Engineer
 I specialize in building production-grade **AI** pipelines and **multi-modal AI engines**. My focus is on bridging the gap between theoretical models and scalable, real-world deployments.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🌐 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,c,r" />
+</p>
 
-- **AI/ML:** Gemini API, Ollama, LangChain, RAG Optimization, Multi-modal Systems
-- **Vector Databases:** ChromaDB, Qdrant, Pinecone
-- **Data Engineering:** Apache Kafka (Multi-broker clusters), Apache Spark, Docker
-- **Core:** Python, Java, SQL, Linux/Bash
+### 🤖 Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" />
+  <img src="https://img.shields.io/badge/joblib-3488a8?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
+### 🧠 Deep Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### 🚀 Large Language Models (LLM)
+<p align="left">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-ff413e?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-27272e?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 ---
 
-### 🏗️ Featured Real-World Solutions
-
-#### 🔍 Advanced RAG Pipeline (Graduation Project)
-*Built a full-scale document intelligence system using vector embeddings and metadata filtering.*
-- **Tech:** Python, LangChain, ChromaDB, Gemini.
-- **Key Feature:** Optimized chunking strategies and retrieval accuracy for technical documentation.
-
-#### 📡 Real-Time Data Infrastructure
-*Architected a high-throughput messaging system to handle live data streams.*
-- **Tech:** Apache Kafka (5-broker setup), Docker Compose.
-- **Key Feature:** Ensured fault tolerance and low-latency message delivery for data-intensive applications.
-
-#### 👁️ Computer Vision Focus Guard
-*A productivity tool using gaze tracking to detect distractions.*
-- **Tech:** OpenCV, Object Detection, Gaze Tracking.
-- **Impact:** Automates focus monitoring to improve deep-work efficiency.
-
----
 
 ### 📈 What I'm Working On
-- **Refining RAG Tuning:** Exploring hybrid search and re-ranking techniques.
 - **Scalable AI:** Deploying ML models inside containerized environments using Docker.
 - **Open Source:** Contributing to tools that make AI more accessible.
 
